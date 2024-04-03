@@ -21,4 +21,4 @@ const server = Bun.serve({
 
 });
 
-console.log(`Listening on LocalHost yes yes:${server.port}...`)
+console.log(`Listening on LocalHost yes:${server.port}...`)
